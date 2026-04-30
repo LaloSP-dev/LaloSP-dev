@@ -8,8 +8,8 @@
 - 💻 Lic. en Computación
 - 📚 Estudiante de la Universidad Autónoma Metropolitana
 - 🤔 Me gusta aprender nuevas tecnologías
-- 🌱 Desarrollador Frontend y Backend | QA Automatización
-  - He trabajado en el desarrollo y mantenimiento de aplicaciones. Además, me he enfocado en la implementación de pruebas automatizadas para asegurar la calidad del software y optimizar procesos.
+- 🌱 Licenciado en Computación con enfoque en desarrollo Backend Java, desarrollo Fullstack (Angular/Spring Boot) y Automatización de Pruebas (QA).
+      - Experiencia en desarrollo de sistemas web, construcción de APIs REST y automatización de pruebas con Selenium y Cucumber.
 
 ## Lenguajes y Tecnologias
 
