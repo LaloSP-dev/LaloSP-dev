@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaloSP-dev&layout=donut" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaloSP-dev&theme=github_dark" />
 </p>
