@@ -22,7 +22,7 @@
 </div> 
 
 ## GitHub Stats 📈
-p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=LaloSP-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
