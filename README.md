@@ -27,9 +27,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaloSP-dev&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LaloSP-dev&theme=tokyonight&no-frame=true&column=4"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaloSP-dev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LaloSP-dev&theme=tokyonight" />
 </p>
