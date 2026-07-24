@@ -22,6 +22,14 @@
 </div> 
 
 ## GitHub Stats 📈
-![Mis stats](https://github-readme-stats.vercel.app/api?username=LaloSP-dev&theme=gruvbox&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-<br>
-![Mis lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=LaloSP-dev&theme=gruvbox)
+p align="center">
+  <img src="https://streak-stats.demolab.com?user=LaloSP-dev&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaloSP-dev&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LaloSP-dev&theme=tokyonight&no-frame=true&column=4"/>
+</p>
